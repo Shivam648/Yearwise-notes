@@ -1,3 +1,18 @@
-Content- headline ;body style;if any icon then;nevigationbar;sighnup;signin
+/headline ;body style;if any icon then;nevigationbar;sighnup;signin/
 Introduction -what  you want  to put;for whom; variety;
-Subject
+contents-
+Subject-
+(i)maths
+(ii)english
+(iii)physics
+(iv)engineering graphics
+(v)electrical engineering
+(vi)c programming
+(vii)data structure
+(viii)computer architecture
+(ix)health,safety and environment
+(x)chemistry
+(xi)electronics engineering
+(xii)engineering mechanics
+question paper
+some lab notes
