@@ -1,3 +1,3 @@
-Content
-Introduction
+Content- headline ;body style;if any icon then;nevigationbar;sighnup;signin
+Introduction -what  you want  to put;for whom; variety;
 Subject
